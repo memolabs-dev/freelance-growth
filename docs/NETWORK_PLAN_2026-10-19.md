@@ -1,3 +1,12 @@
+# Correctif de périmètre — 23 octobre 2026
+
+**Cette note du 19/10 est historique et ses propositions de contact ne sont plus des instructions exécutables.**
+**Consigne actuelle du propriétaire :** Medsharing déjà traité, ne pas le recontacter depuis Freelance Growth ; Symbyoz et Adriver Group explicitement exclus de toute prospection et tout brouillon. Ne pas trouver de coordonnées ni rechercher de contacts pour ces trois cibles. L'issue #42 a été clôturée *not planned*. Les statuts faisant foi sont dans `data/relationship_pipeline_2026-10-19.tsv`.
+
+Priorité commerciale : nouvelles missions B2B vérifiées de #40, sans doublons, 100 % remote depuis France, et offres réellement financées. Rien n'est envoyé sans accord individuel du propriétaire.
+
+---
+
 # Plan d'activation du reseau existant
 
 **Date :** 19 octobre 2026. Voir aussi [le registre des 14 organisations et relations](../data/relationship_pipeline_2026-10-19.tsv). Aucune de ces 14 lignes n'est un nouveau client signe. Les candidats avec statut reject ne sont pas de nouvelles opportunites commerciales.
