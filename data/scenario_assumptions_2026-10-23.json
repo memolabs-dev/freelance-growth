@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "as_of": "2026-10-23",
+    "evidence": "ALL PROBABILITIES BELOW ARE SCENARIO ASSUMPTIONS NOT EMPIRICALLY ESTIMATED",
+    "horizonDays": 90,
+    "budgetHours": 40,
+    "units": "four-week cohort of opportunity dossiers, France-remote B2B hard gates remain mandatory",
+    "iterations": 20000
+  },
+  "channels": {
+    "direct": {
+      "label": "Mandats directs (contrat explicite)",
+      "hoursPerDossier": 2,
+      "eligible": 0.6,
+      "meeting": 0.32,
+      "proposal": 0.55,
+      "close": 0.25,
+      "dealType": "long",
+      "signedFaceEUR": 23100,
+      "firstInvoiceEUR": 7700,
+      "feeRate": 0,
+      "description": "Contrat théorique 3 mois x 14 j/mois x 550 EUR; aucun mandat ni tarif confirmé"
+    },
+    "recruiter": {
+      "label": "Recruteurs/ESN mandatés",
+      "hoursPerDossier": 2,
+      "eligible": 0.5,
+      "meeting": 0.38,
+      "proposal": 0.55,
+      "close": 0.26,
+      "dealType": "long",
+      "signedFaceEUR": 21000,
+      "firstInvoiceEUR": 7000,
+      "feeRate": 0.07,
+      "description": "Contrat indicatif 3 mois x 14 j/mois x 500 EUR; 7% proxy economique de friction/marge NON observee, ne pas confondre avec frais supplementaires"
+    },
+    "partner": {
+      "label": "Co-traitance avec freelance sous mandat",
+      "hoursPerDossier": 3,
+      "eligible": 0.38,
+      "meeting": 0.4,
+      "proposal": 0.55,
+      "close": 0.32,
+      "dealType": "sprint",
+      "signedFaceEUR": 3600,
+      "firstInvoiceEUR": 3600,
+      "feeRate": 0.05,
+      "description": "Lot 6 jours a 600 EUR, 5% proxy friction et negotiation; jamais chiffre contractuel"
+    },
+    "agency": {
+      "label": "Agence avec client signe",
+      "hoursPerDossier": 3,
+      "eligible": 0.32,
+      "meeting": 0.3,
+      "proposal": 0.55,
+      "close": 0.28,
+      "dealType": "sprint",
+      "signedFaceEUR": 4000,
+      "firstInvoiceEUR": 4000,
+      "feeRate": 0.1,
+      "description": "Lot au forfait indicatif 4000 EUR avec 10% friction; annuaire seul exclu"
+    },
+    "marketplace": {
+      "label": "Marketplace avec budget affiche",
+      "hoursPerDossier": 2.5,
+      "eligible": 0.42,
+      "meeting": 0.28,
+      "proposal": 0.5,
+      "close": 0.18,
+      "dealType": "long",
+      "signedFaceEUR": 21000,
+      "firstInvoiceEUR": 7000,
+      "feeRate": 0.1,
+      "description": "Commission 10% illustrative (Malt initial); autres plateformes 0 a 15% ou autres frais, se renseigner"
+    },
+    "trigger": {
+      "label": "Outbound sur signal d'achat public",
+      "hoursPerDossier": 3.5,
+      "eligible": 0.38,
+      "meeting": 0.09,
+      "proposal": 0.53,
+      "close": 0.22,
+      "dealType": "sprint",
+      "signedFaceEUR": 3600,
+      "firstInvoiceEUR": 3600,
+      "feeRate": 0,
+      "description": "9% rendez-vous parmi dossiers eligibles est une hypothese optimiste pour outbound cible, bien plus elevee que replies humains moyens cold B2B observés; stress test"
+    },
+    "rescue": {
+      "label": "Diagnostic paye de release bloquee",
+      "hoursPerDossier": 4,
+      "eligible": 0.3,
+      "meeting": 0.2,
+      "proposal": 0.5,
+      "close": 0.25,
+      "dealType": "sprint",
+      "signedFaceEUR": 1500,
+      "firstInvoiceEUR": 1500,
+      "feeRate": 0,
+      "description": "Diagnostic borne hypothétique, aucune demande prouvee ni premium confirme"
+    }
+  },
+  "portfolios": {
+    "balanced": {
+      "label": "Equilibre mandats + co-traitance + recruteurs",
+      "mix": {
+        "direct": 7,
+        "recruiter": 4,
+        "partner": 4
+      },
+      "proofHours": 6,
+      "totalHours": 40,
+      "slackHours": 0
+    },
+    "direct_heavy": {
+      "label": "Priorite missions directes",
+      "mix": {
+        "direct": 12,
+        "recruiter": 5
+      },
+      "proofHours": 6,
+      "totalHours": 40,
+      "slackHours": 0
+    },
+    "partner_heavy": {
+      "label": "Priorite co-traitants et agences",
+      "mix": {
+        "partner": 8,
+        "agency": 3
+      },
+      "proofHours": 7,
+      "totalHours": 40,
+      "slackHours": 0
+    },
+    "marketplace_heavy": {
+      "label": "Priorite plateformes",
+      "mix": {
+        "marketplace": 12,
+        "direct": 3
+      },
+      "proofHours": 4,
+      "totalHours": 40,
+      "slackHours": 0
+    },
+    "trigger_heavy": {
+      "label": "Prospection directe basee sur signal",
+      "mix": {
+        "trigger": 8,
+        "direct": 3
+      },
+      "proofHours": 6,
+      "totalHours": 40,
+      "slackHours": 0
+    },
+    "proof_first": {
+      "label": "Preuves et demonstrations d'abord",
+      "mix": {
+        "direct": 8,
+        "recruiter": 4
+      },
+      "proofHours": 16,
+      "totalHours": 40,
+      "slackHours": 0
+    },
+    "rescue_heavy": {
+      "label": "Diagnostic paye avant mission longue",
+      "mix": {
+        "rescue": 6,
+        "direct": 5
+      },
+      "proofHours": 6,
+      "totalHours": 40,
+      "slackHours": 0
+    },
+    "diversified": {
+      "label": "Diversifie direct+recruteur+partenaire+plateforme",
+      "mix": {
+        "direct": 5,
+        "recruiter": 3,
+        "partner": 5,
+        "marketplace": 2
+      },
+      "proofHours": 4,
+      "totalHours": 40,
+      "slackHours": 0
+    }
+  },
+  "regimes": {
+    "adverse": {
+      "label": "Adverse / cycle d'achat difficile",
+      "eligibleFactor": 0.72,
+      "meetingFactor": 0.6,
+      "proposalFactor": 0.85,
+      "closeFactor": 0.7,
+      "paymentShiftDays": 20
+    },
+    "central": {
+      "label": "Central / hypothese de travail",
+      "eligibleFactor": 1,
+      "meetingFactor": 1,
+      "proposalFactor": 1,
+      "closeFactor": 1,
+      "paymentShiftDays": 0
+    },
+    "favorable": {
+      "label": "Favorable / besoin intense",
+      "eligibleFactor": 1.2,
+      "meetingFactor": 1.4,
+      "proposalFactor": 1.15,
+      "closeFactor": 1.35,
+      "paymentShiftDays": -10
+    }
+  }
+}
