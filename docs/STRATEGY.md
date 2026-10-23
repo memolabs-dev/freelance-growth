@@ -20,3 +20,8 @@
 **Aucune candidature ni message externe** sans approbation par le propriétaire du texte et du destinataire exacts. Préparation via issues/PR et vérifications ; aucun déplacement de données privées en Git.
 
 **Issues de pilotage** : #38 stratégie ; #40 missions ; #41 agences ; #43 AI App Rescue ; #45 approbation/mesure ; #46 orchestrateur.
+
+
+## Kit commercial du lundi 26 octobre 2026
+
+Voir [readiness, gates et prochaines actions](launch/2026-10-26-MONDAY-READINESS.md), [cahiers JUWA / Celaneo / Gamme / ADDIXWARE](launch/2026-10-26-CLIENT-DOSSIERS.md), [sales playbook, drafts NON ENVOYÉS](launch/2026-10-26-SALES-PLAYBOOK.md), [offres et devis](launch/2026-10-26-OFFERS-AND-SOW.md) et [preuve locale synthétique 4/4, limites E2E](launch/2026-10-26-PROOF-READINESS.md). Préparation ne vaut ni signature, ni validation produit ; tous les envois exigent approbation ciblée.
