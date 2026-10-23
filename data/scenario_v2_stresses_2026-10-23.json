@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "version": 2,
+    "asOf": "2026-10-23",
+    "label": "All rates are judgmental WHAT-IF assumptions, not measured probabilities",
+    "iterations": 1800,
+    "deliveryDaysPerWeek": 5,
+    "duplicateRate": 0.12,
+    "paymentDays": 30,
+    "depositChance": 0.45,
+    "cancelChance": 0.04
+  },
+  "shocks": {
+    "base": {
+      "label": "Central (hypothèses)"
+    },
+    "remote_scarce": {
+      "label": "Pénurie remote France",
+      "eligibility": {
+        "direct": 0.55,
+        "recruiter": 0.55,
+        "marketplace": 0.55
+      }
+    },
+    "remote_wide": {
+      "label": "Remote pan-européen admissible",
+      "eligibility": {
+        "direct": 1.35,
+        "recruiter": 1.3,
+        "marketplace": 1.2
+      }
+    },
+    "partner_no_mandate": {
+      "label": "Peu de co-traitants mandatés",
+      "partnerDemand": 0.32
+    },
+    "partner_strong": {
+      "label": "Co-traitants avec clients identifiés",
+      "partnerDemand": 1.45
+    },
+    "weak_demand": {
+      "label": "Marché contracté",
+      "demand": 0.6
+    },
+    "strong_demand": {
+      "label": "Marché porteur",
+      "demand": 1.35
+    },
+    "duplicate_high": {
+      "label": "Annonces multi-ESN dupliquées",
+      "duplicateRate": 0.4
+    },
+    "duplicate_low": {
+      "label": "Mandats principalement uniques",
+      "duplicateRate": 0.025
+    },
+    "outbound_weak": {
+      "label": "Cold très peu réactif",
+      "meeting": {
+        "trigger": 0.18
+      }
+    },
+    "outbound_strong": {
+      "label": "Signal acheteur très précis",
+      "meeting": {
+        "trigger": 1.75
+      }
+    },
+    "price_pressure": {
+      "label": "TJM négocié -20 %",
+      "price": 0.8
+    },
+    "premium_price": {
+      "label": "Prix +15 % sous preuves adaptées",
+      "price": 1.15,
+      "close": 0.85
+    },
+    "payments_60": {
+      "label": "Conditions net 60 jours",
+      "paymentDays": 60
+    },
+    "payments_90": {
+      "label": "Retard de paiement hors contrat +90 jours",
+      "paymentDays": 90
+    },
+    "deposits_none": {
+      "label": "Aucun acompte négocié",
+      "depositChance": 0
+    },
+    "deposits_all": {
+      "label": "Acomptes prévus sur chaque sprint",
+      "depositChance": 1
+    },
+    "low_capacity": {
+      "label": "Capacité 3 jours livraison/semaine",
+      "deliveryDaysPerWeek": 3
+    },
+    "high_capacity": {
+      "label": "Capacité 6 jours/semaine (risque)",
+      "deliveryDaysPerWeek": 6
+    },
+    "cancellations_high": {
+      "label": "Ruptures anticipées / scope instable",
+      "cancelChance": 0.25
+    },
+    "proof_weak": {
+      "label": "La preuve technique convainc peu",
+      "proof": 0.8
+    },
+    "proof_strong": {
+      "label": "La preuve convainc davantage",
+      "proof": 1.35
+    },
+    "qualification_strict": {
+      "label": "Exigences séniorité difficiles",
+      "eligibility": {
+        "direct": 0.68,
+        "recruiter": 0.65,
+        "marketplace": 0.65
+      }
+    },
+    "fees_high": {
+      "label": "Surcoûts intermédiation +10 points",
+      "extraFee": 0.1
+    },
+    "buyer_slow": {
+      "label": "Cycles de validation client +25 jours",
+      "buyerDelay": 25
+    }
+  }
+}
