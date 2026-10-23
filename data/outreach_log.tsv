@@ -173,3 +173,114 @@ Modèle : sprint délimité ou renfort récurrent, B2B, exécution Thaïlande (C
 Si un engagement enterprise actuel a des besoins de dev n8n/AI sur mesure, on peut en discuter.
 
 Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Glass Atlas	Founder/Delivery	Email	GLASSATLAS_001	Next.js frontend sur BigCommerce — migrations et QA	"Bonjour,
+
+J'ai vu votre profil de partenaire Vercel Solution Partner : vous construisez des frontends Next.js sur BigCommerce, déployés sur Vercel. Votre activité couvre migration, QA et API.
+
+Le probleme classique sur ce type de stack : une migration BigCommerce ou un replatforming Next.js fonctionne en demo, mais la QA, les tests d'integration et le suivi d'erreurs en production deviennent vite un goulot. Une equipe delivery surbookee peut avoir besoin d'un renfort technique sur ce perimetre.
+
+Je developpe des API Node/TypeScript, des interfaces React et des tests d'integration (Vitest, Playwright, CI GitHub Actions). Je livre un perimetre delimite, teste et documenté, en sous-traitance B2B.
+
+Preuve : Memo Bridge (orchestration agents, worktrees, CI auto-merge, 2000+ commits) et une demo RAG avec pgvector, permissions tenant et eval automatisee.
+
+Je travaille depuis la Thailande (CET +/-3h, accord ecrit préalable).
+
+Si un projet client actuel implique une migration Next.js, une QA API ou un module de tests a livrer, on peut en discuter sur 15 min.
+
+Bien a vous,
+
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de reponse	2026-10-30	Draft ready, not sent	READY_TO_SEND
+2026-10-23	BASIC/DEPT®	Founder/Delivery	Email	BASICDEPT_001	Design, data, technology — renfort technique sur vos plateformes	"Bonjour,
+
+BASIC/DEPT est une agence globale a l'intersection du design, de la data et de la technologie. Vous livrez des plateformes digitales et des experiences de marque pour des clients renommes.
+
+Ce que je vois souvent chez vos pairs : la conception et le design tiennent, mais la couche technique qui rend la plateforme exploitable (API, base de donnees, tests, deploiement) demande un renfort ponctuel que l'equipe interne n'a pas toujours en bande passante.
+
+J'interviens sur ce perimetre : API Node/TypeScript, interfaces React, tests d'integration, CI/CD, deploiement. Je livre un perimetre delimite, vous gardez la relation client et la direction de projet.
+
+Preuve : Memo Bridge (2000+ commits, CI verte, Mergify auto-merge) et une demo d'integration API avec tests e2e.
+
+Mode : sprint borne (2-4 semaines) ou renfort recursif, B2B, facturation HT. Execution depuis la Thailande (CET +/-3h, accord ecrit).
+
+Si un projet client actuel a un module technique a livrer, je suis disponible pour en parler.
+
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de reponse	2026-10-30	Draft ready, not sent	READY_TO_SEND
+2026-10-23	Brandung	Founder/Delivery	Email	BRANDUNG_001	Agence digitale depuis 2003 — renfort sur eCommerce et API	"Bonjour,
+
+Brandung developpe des solutions digitales depuis 2003, avec des equipes a Cologne et Berlin. Vous etes partenaire Vercel Gold et travaillez sur l'eCommerce, le marketing en ligne et l'experience de contenu.
+
+Le probleme recurrentsur ce type de plateforme : un site eCommerce ou une experience de contenu fonctionne, mais l'integration API, la synchronisation de donnees et les tests de regression deviennent complexes a mesure que le projet grandit.
+
+Je construis la couche technique autour de ces integrations : API Node/TS, tests d'integration, monitoring d'erreurs, deploiement. Je livre un perimetre delimite, teste et documenté.
+
+Preuve : Memo Bridge (orchestration, worktrees isolates, CI auto-merge) et une demo d'API avec tests e2e Playwright.
+
+Mode : sous-traitance B2B, sprint borne ou renfort, facturation HT. Execution depuis la Thailande (CET +/-3h, accord ecrit). Vous gardez la relation client.
+
+Si un projet client actuel a besoin d'un module API ou d'integration eCommerce, on peut en discuter sur 15 min.
+
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de reponse	2026-10-30	Draft ready, not sent	READY_TO_SEND
+2026-10-23	SVA System Vertrieb	Founder/Delivery	Email	SVA_001	n8n Premium Partner — developpement sur mesure pour integrations enterprise	"Bonjour,
+
+SVA est un partenaire n8n Premium Expert, avec plus de 4000 employes et 29 agences en Allemagne. Vous integrez n8n depuis 2021 pour des clients enterprise.
+
+Sur les grands comptes, le developpement sur mesure depasse souvent la configuration n8n standard : nodes personnalises, APIs complexes (authentification, pagination, rate-limit), agents IA integrates dans les workflows, gouvernance (trace d'audit, gates d'approbation), erreur handling avance, deploiement self-hosted.
+
+J'interviens en complement technique sur ce perimetre : nodes n8n TypeScript, APIs robustes, agents IA, gouvernance, deploiement Docker/AWS. Vous gardez la relation client et l'architecture.
+
+Preuve : Memo Bridge (orchestration agents, MCP, worktrees, CI auto-merge) et une demo RAG avec pgvector, permissions et eval.
+
+Mode : sprint borne ou renfort recursif, B2B, facturation HT. Execution depuis la Thailande (CET +/-3h, accord ecrit).
+
+Si un engagement enterprise actuel a des besoins de dev n8n/IA sur mesure, je suis disponible.
+
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de reponse	2026-10-30	Draft ready, not sent	READY_TO_SEND
+2026-10-23	Bitovi	Founder/Delivery	Email	BITOVI_001	n8n Premium Partner — nodes personnalises et validation-drivene	"Hello,
+
+Bitovi is a certified n8n partner with a validation-driven approach — workflows tested and verified before go-live, not just built and deployed. I saw your n8n-nodes-utils package on GitHub and your work on channel-agnostic AI agents with n8n.
+
+The gap I often see: n8n workflows work in isolation, but custom nodes, API integrations (auth, pagination, rate-limit, idempotency), AI agent orchestration, and production-grade error handling need dedicated engineering capacity.
+
+I help n8n partners ship custom nodes and integrations: TypeScript nodes, versioned APIs, retry/backoff, idempotency keys, integration tests against real endpoints, CI/CD, observability.
+
+Proof: Memo Bridge (agent orchestration, MCP, isolated worktrees, CI green, Mergify auto-merge) and a RAG demo with pgvector, tenant permissions, and automated eval.
+
+B2B contractor, remote from Thailand (CET +/-3h overlap, written approval), 500-750 EUR/day HT for AI integration sprints.
+
+If you have an n8n engagement needing custom development beyond standard configuration, I can own that technical delivery.
+
+Open for a 15-min call.
+
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de reponse	2026-10-30	Draft ready, not sent	READY_TO_SEND
+2026-10-23	Data4Prime	Founder/Delivery	Email	DATA4PRIME_001	n8n Premium Partner — workflows intelligents et integration donnees	"Bonjour,
+
+Data4Prime est une consultance italienne en donnees et automatisation, avec 20 ans d'experience et des certifications Qlik, AWS, Azure, GCP. Vous construisez des workflows intelligents pilotés par n8n.
+
+Le probleme classique sur ce type de stack : un workflow n8n fonctionne en production, mais l'integration avec des bases de donnees, la validation des sorties, l'observabilite et le monitoring des coûts demandent une couche technique supplementaire.
+
+Je construis exactement cette couche : integration API robuste, validation des donnees, tests d'integration, monitoring, observabilite. Je livre un perimetre delimite, teste et documenté.
+
+Preuve : Memo Bridge (orchestration agents, worktrees isolates, CI auto-merge) et une demo RAG avec pgvector, hybrid search (BM25 + vector + rerank), et dashboard de couts.
+
+Mode : sprint borne (2-4 semaines) ou renfort recursif, B2B, facturation HT. Execution depuis la Thailande (CET +/-3h, accord ecrit).
+
+Si un projet client actuel a un workflow n8n a fiabiliser ou une integration donnees a construire, je suis disponible.
+
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de reponse	2026-10-30	Draft ready, not sent	READY_TO_SEND
+2026-10-23	Goodspeed	Founder/Delivery	Email	GOODSPEED_001	n8n Expert Partner — automation-first product builds	"Hello,
+
+Goodspeed is an n8n Expert Partner based in the UK, specializing in automation-first digital products for startups and growth-stage companies. You've priced 200+ n8n automation projects and combine product design with n8n automation.
+
+The pattern I see: an automation works as a prototype, but turning it into a production-grade product needs API layer, error handling, observability, rate-limiting, and clean deployment — engineering that goes beyond n8n configuration.
+
+I build that production layer: Node/TypeScript APIs, integration tests, CI/CD, monitoring, observability, and clean deployment. I deliver a scoped, tested, documented perimeter as a B2B contractor.
+
+Proof: Memo Bridge (agent orchestration, MCP, worktrees, CI green, Mergify auto-merge) and a RAG demo with pgvector, tenant permissions, automated eval, and cost dashboard.
+
+Remote from Thailand (CET +/-3h overlap, written client approval), 500-750 EUR/day HT or fixed-price sprint.
+
+If you have an n8n automation that needs to cross the production finish line, I can own that technical delivery.
+
+Open for a 15-min call.
+
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de reponse	2026-10-30	Draft ready, not sent	READY_TO_SEND
