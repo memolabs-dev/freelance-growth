@@ -1,73 +1,42 @@
-# Memo Labs — Fiche commerciale (FR / EN)
+# Memo Labs — Prestations FR / EN
 
-**Version :** 2026-10-23 · Document de prospection, non contractuel. Aucune garantie de disponibilité immédiate ni de résultats client non vérifiés.
-
----
+**Version du 23 octobre 2026.** Support de discussion non contractuel. Tous les tarifs sont des **hypothèses de négociation**, pas des contrats signés.
 
 ## Français
 
-**Développeur full-stack TypeScript / React / Node.js, intégrations IA et automatisations.**
+**Développeur full-stack TypeScript, React et Node.js — intégrations IA et automatisations.**
 
-J'aide les équipes SaaS et les agences à livrer des fonctionnalités exploitables en production : interface, API, base de données, intégrations externes, tests et suivi des incidents.
+J'aide les éditeurs SaaS et les agences à livrer des fonctionnalités sur un périmètre précis : interfaces, API, intégrations, tests et déploiements contrôlés.
 
-### Interventions proposées
-
-| Format | Déclencheur client | Livrable contrôlable | Tarif test (HT/jour) |
+| Offre | Besoin client | Livrable | Tarif test HT |
 |---|---|---|---|
-| **Renfort Product Engineering** | Produit existant, roadmap budgétée, capacité manquante | Features React/Next.js/Node.js/PostgreSQL, CI, tests, doc de livraison | 500 – 650 € |
-| **Intégration IA & Automatisation** | Fonctionnalité IA à mettre en production | RAG, API LLM, n8n/Make, permissions, validation, observabilité, coûts | 600 – 750 € |
-| **Co-implémentation technique** | Équipe bloquée sur un chantier précis | Diagnostic, décisions, premier lot développé et validé ensemble | Sur devis (périmètre) |
+| Product Engineering | Produit existant avec roadmap financée | Développement React/Next.js/Node.js, tests et documentation | 500–650 €/jour |
+| Intégration IA / automatisation | Fonctionnalité ou workflow à intégrer | API, permissions, évaluation, observabilité, recette | 600–750 €/jour |
+| Diagnostic + premier lot | Système bloqué ou instable | Audit borné puis améliorations validées ensemble | Forfait sur devis |
 
-> **Ce n'est pas une formation.** L'accompagnement vise à livrer une amélioration concrète du système du client.
+**Preuves techniques publiquement accessibles, pas références clients :**
 
-### Preuves accessibles (projets internes, pas missions clients)
+- [n8n / Opn Payments](https://github.com/guillaume-flambard/n8n-nodes-opn) — intégration technique personnelle, fonctions exactes à vérifier avant de les citer.
+- [Memo Bridge](https://github.com/memolabs-dev/memo-bridge) — outil interne de coordination d'agents et d'intégrations.
+- [Drop](https://github.com/memolabs-dev/drop) — prototype, **non déployé chez des clients**.
+- [Kollio macOS](https://github.com/memolabs-dev/kollio-mac) — interface SwiftUI, **pas preuve d'un projet React**.
 
-- **Memo Bridge** — Orchestration d'agents, MCP, worktrees isolés, tests, PR automatisées : `github.com/memolabs-dev/memo-bridge`
-- **Drop** — Échanges approuvés entre agents, contrats de capacités, cryptographie, traçabilité : `github.com/memolabs-dev/drop`
-- **Kollio (macOS/SwiftUI)** — Interface produit, documents visuels, branches fantômes, validation : `github.com/memolabs-dev/kollio-mac`
+**Modalités :** prestation B2B **100 % remote depuis la France actuellement**. Toute exécution future depuis la **Thaïlande** est soumise à l'accord écrit préalable du client (pays, sécurité et données). Confidentialité, périmètre et facturation à confirmer par devis. Pas de formation vendue comme une prestation d'ingénierie.
 
-### Modalités
-
-- **Statut** : Freelance B2B (facturation HT, TVA intracommunautaire FR48924107469, VIES validé)
-- **Remote** : 100 % à distance. **Exécution depuis la Thaïlande** soumise à accord écrit préalable du client (pays, fuseau, accès données).
-- **Disponibilité** : Fuseau CET/CEST ±3 h (chevauchement 4–6 h/jour), jours ouvrés.
-- **Sécurité** : NDA, pas d'accès données sensibles sans autorisation, pas de code tiers propriétaire.
-
-### Premier échange
-
-20 minutes pour comprendre : besoin, urgence, budget, contraintes de résidence, décideur. Si je ne suis pas adapté, je le dis.
-
----
+**Premier échange :** 20 minutes pour comprendre besoin, budget, décideur, urgence, pays d'exécution et critères de réussite.
 
 ## English
 
-**Full-stack TypeScript / React / Node.js engineer, practical AI integration and automation.**
+**Full-stack TypeScript / React / Node.js engineer — AI integration and automation.**
 
-I help SaaS teams and agencies ship working product features: frontend, APIs, databases, integrations, testing, and production reliability.
+I help SaaS teams and technical agencies ship reliable product features, APIs and integrations, with explicit acceptance tests.
 
-### How I can help
+- **Product Engineering:** React / Next.js / Node.js delivery, €500–650/day as a negotiable test range.
+- **AI integration and automation:** scoped API, permissions, evaluation and observability, €600–750/day as a negotiable test range.
+- **Diagnostic and first improvement:** priced according to scope.
 
-| Format | Client trigger | Controlled deliverable | Test rate (HT/day) |
-|---|---|---|---|
-| **Product Engineering** | Existing product, funded roadmap, capacity gap | React/Next.js/Node.js/PostgreSQL features, CI, tests, delivery docs | €500 – 650 |
-| **AI Integration & Automation** | AI feature must reach production | RAG, LLM APIs, n8n/Make, permissions, validation, observability, cost control | €600 – 750 |
-| **Technical Co-implementation** | Team blocked on a specific initiative | Diagnosis, decisions, first increment built and validated together | Fixed-price per scope |
+Public **internal or personal** examples: [n8n Opn node](https://github.com/guillaume-flambard/n8n-nodes-opn), [Memo Bridge](https://github.com/memolabs-dev/memo-bridge), and [Drop](https://github.com/memolabs-dev/drop) (prototype). These are not claimed as paid client case studies.
 
-> **Not a training course.** Pairing exists to deliver a concrete improvement to the client's system.
+**Working model:** B2B contractor, **fully remote from France**. Any future work from Thailand requires explicit written client approval.
 
-### Public examples (self-developed products, not client references)
-
-- **Memo Bridge** — Agent orchestration, MCP, isolated worktrees, tests, automated PRs: `github.com/memolabs-dev/memo-bridge`
-- **Drop** — Approved agent-to-agent exchanges, capability contracts, cryptography, audit trail: `github.com/memolabs-dev/drop`
-- **Kollio (macOS/SwiftUI)** — Product UI, visual documents, ghost branches, validation: `github.com/memolabs-dev/kollio-mac`
-
-### Working model
-
-- **B2B contractor**, invoicing in EUR, EU VAT FR48924107469 (VIES validated).
-- **Fully remote**. **Execution from Thailand** requires written client approval (country, timezone overlap, data access).
-- **Availability** : CET/CEST ±3 h (4–6 h overlap/day), business days.
-- **Security** : NDA, no sensitive data access without authorization, no third-party proprietary code.
-
-### Discovery call
-
-20 minutes to discuss: product, urgency, constraints, expected outcome, decision-maker, budget. If I'm not the right fit, I'll say so.
+**First conversation:** 20 minutes to discuss a real problem, timeline, budget, buyer and measurable first deliverable.
