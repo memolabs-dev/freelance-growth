@@ -12,7 +12,7 @@ Je ne vends pas de 'ressources'. Je livre un périmètre technique délimité, t
 Si vous avez un projet client où la partie API/back-office devient un goulot, on peut en parler sur 15 min. Pas de pitch, juste comprendre le besoin et voir si je peux aider.
 
 Bien à vous,
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Review original Gmail thread; do not send new introduction	2026-10-30	Previously contacted 2026-10-19; existing thread only, no auto follow-up. Historical draft NOT sent.	BLOCKED_DUPLICATE
 2026-10-23	symbolist.	Founder/Delivery	Email	SYMBOLIST_001	Automatisations Make PME/ETI — le 'dernier kilomètre' technique	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Votre positionnement sur les workflows métier pour PME/ETI (RH, finance, ops) est clair. Ce que je vois souvent chez vos pairs : le workflow Make fonctionne, mais l'interface utilisateur (dashboard, validation, suivi d'erreurs) et le backend (API, base, auth) restent à construire côté client. Et l'équipe Make n'a pas toujours la bande passante pour livrer du React/Node propre, testé, déployable.
@@ -27,7 +27,7 @@ Si un projet client actuel a ce profil — workflow Make prêt, mais interface/b
 
 Disponible pour 15 min cette semaine si pertinent.
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Review original Gmail thread; do not send new introduction	2026-10-30	Previously contacted 2026-10-19; existing thread only, no auto follow-up. Historical draft NOT sent.	BLOCKED_DUPLICATE
 2026-10-23	9x	Founder/Delivery	Email	9X_001	Intégrations SaaS/CRM sur mesure — tests d'intégration inclus	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Votre fiche Make mentionne 'automatisation SaaS/CRM et API'. Ce que ça implique concrètement : des APIs tiers instables, des schémas qui changent, de la pagination, des rate-limits, et des clients qui attendent que 'ça marche' sans voir la complexité.
@@ -110,7 +110,7 @@ Critical: own code only — no client proprietary code, no NDAs violated. Contra
 
 Portfolio: github.com/memolabs-dev/memo-bridge (agent orchestration), github.com/memolabs-dev/rag-doc-search (RAG + eval + observability — public repo coming).
 
-Rate: per task (your $1000/task model works if scope is clear). Available for trial task."	VERIFY	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Review screened_out reason	2026-10-28	Check ~/jobs rejection	QUEUED
+Rate: per task (your $1000/task model works if scope is clear). Available for trial task."	VERIFY	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Review prior screened_out reason in ~/jobs; no new application	2026-10-28	Previous screened_out in ~/jobs, no new approach absent a verified new opportunity.	SCREENED_OUT
 2026-10-23	Blazity	Founder/Delivery	Email	BLAZITY_001	Enterprise AI agents on Next.js — production-grade delivery partner	"Hello,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Blazity's positioning on 'enterprise AI agents & workflows' with Next.js caught my attention — especially the THAI UI concept (putting n8n agents behind a clean interface with audit trail). That's exactly the production gap: the agent works, but the governance, permissions, evaluation, and user-facing interface need engineering.

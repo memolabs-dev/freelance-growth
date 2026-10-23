@@ -1,12 +1,12 @@
-# Preuve IA intégrée : RAG documentaire + API + permissions + observabilité
+# Exemple de projet IA à réaliser : RAG documentaire + API + permissions + observabilité
 
-**Projet interne** — pas une mission client. Démonstration de capacité à mettre une fonctionnalité IA en production avec garde-fous.
+**STATUT : PROJET DE DÉMONSTRATION NON VÉRIFIÉ, NON DIFFUSABLE AUX PROSPECTS.** Ce document décrit une architecture envisagée, pas une livraison effective ni une référence client. Le dépôt public décrit en bas de page n'a pas été trouvé lors du contrôle du 23/10/2026. Les tests, évaluations et déploiements mentionnés restent hypothétiques.
 
 ## Problème technique
 
 Une équipe SaaS veut ajouter « Recherche intelligente dans la base de connaissances » : l'utilisateur pose une question en langage naturel, le système retrouve les docs pertinents, génère une réponse sourcée, avec permissions, coûts maîtrisés et traçabilité.
 
-## Solution livrée (démo)
+## Architecture proposée (non démontrée)
 
 ```
 rag-doc-search/
@@ -70,7 +70,7 @@ rag-doc-search/
 | Idempotence ingestion | Double ingestion même doc → 1 seul vecteur (hash contenu) |
 | Rate limiting | 100 req/min/tenant → 429 + retry-after header |
 
-## Preuve d'exécution
+## Commandes prévues, non exécutées ni validées
 
 ```bash
 git clone https://github.com/memolabs-dev/rag-doc-search
@@ -79,12 +79,12 @@ docker compose up -d
 npm install
 npm run db:migrate
 npm run ingest -- --source ./sample-docs
-npm run test:all        # ✅ vert
+npm run test:all        # non vérifié
 npm run eval            # ✅ seuils passés
 npm run dev             # API :3000, Dashboard :5173
 ```
 
-## Ce que cela démontre
+## Compétences que la démo pourrait illustrer une fois réalisée et vérifiée
 
 - **RAG production-ready** : pas un prototype « chat avec PDF »
 - **Permissions réelles** : filtrage au niveau vector store (pas post-filter)

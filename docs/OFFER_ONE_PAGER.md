@@ -29,8 +29,8 @@ J'aide les équipes SaaS et les agences à livrer des fonctionnalités exploitab
 ### Modalités
 
 - **Statut** : Freelance B2B (facturation HT, TVA intracommunautaire FR48924107469, VIES validé)
-- **Remote** : 100 % à distance. **Exécution depuis la Thaïlande** soumise à accord écrit préalable du client (pays, fuseau, accès données).
-- **Disponibilité** : Fuseau CET/CEST ±3 h (chevauchement 4–6 h/jour), jours ouvrés.
+- **Remote** : 100 % à distance, depuis la France (fuseau Europe/Paris). Tout autre pays d'exécution est soumis à accord préalable du client (données, sécurité et contrat).
+- **Disponibilité** : créneaux et date de démarrage à confirmer selon la mission, heure de Paris.
 - **Sécurité** : NDA, pas d'accès données sensibles sans autorisation, pas de code tiers propriétaire.
 
 ### Premier échange
@@ -64,8 +64,8 @@ I help SaaS teams and agencies ship working product features: frontend, APIs, da
 ### Working model
 
 - **B2B contractor**, invoicing in EUR, EU VAT FR48924107469 (VIES validated).
-- **Fully remote**. **Execution from Thailand** requires written client approval (country, timezone overlap, data access).
-- **Availability** : CET/CEST ±3 h (4–6 h overlap/day), business days.
+- **Fully remote**, working from France (Europe/Paris timezone). Work from another country requires prior client approval (contract, security and data access).
+- **Availability**: schedule and start date to be agreed for each engagement, Paris time.
 - **Security** : NDA, no sensitive data access without authorization, no third-party proprietary code.
 
 ### Discovery call
