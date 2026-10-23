@@ -1,4 +1,4 @@
-# Freelance Growth — stratégie opérationnelle en vigueur
+> **Statut au 23/10/2026 : STRATÉGIE CANDIDATE, GO CONDITIONNEL UNIQUEMENT.** La revue contradictoire [M2-STRATEGY-REDTEAM-2026-10-23.md](M2-STRATEGY-REDTEAM-2026-10-23.md) fait désormais foi pour le verdict, les limitations des sources, la concurrence et les conditions de déclenchement. Une étude de marché ne démontre ni un taux de signature ni un tarif accepté. **Pas de nouvelle prospection sans approbation individuelle explicite (destinataire, texte et canal).**\n\n# Freelance Growth — stratégie opérationnelle en vigueur
 
 **Version 23 octobre 2026.** La note historique du 19/10 et le plan de 12 semaines restent consultables ; les nouvelles décisions détaillées font foi : **[M2-STRATEGY-DECISIONS-2026-10-23.md](M2-STRATEGY-DECISIONS-2026-10-23.md)**.
 

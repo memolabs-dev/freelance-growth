@@ -1,4 +1,4 @@
-# Freelance Growth M2 — décisions d'acquisition et expériences
+> **Mise à jour de revue :** cette allocation et ces hypothèses ne sont pas statistiquement optimales ni commercialement validées. Consulter [l'audit contradictoire du 23 octobre](M2-STRATEGY-REDTEAM-2026-10-23.md) et ses GO/PIVOT/NO-GO avant toute exécution.\n\n# Freelance Growth M2 — décisions d'acquisition et expériences
 
 **23 octobre 2026. Décisions opératoires, pas une prévision de chiffre d'affaires.** Synthèse des recherches du 19 et du 22 octobre revalidées le 23 octobre. La priorité est de facturer une première mission **B2B 100 % remote depuis la France**. Un travail ultérieur depuis la Thaïlande exige une autorisation écrite du client et la vérification des contraintes de données/contrat.
 
