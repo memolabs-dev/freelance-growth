@@ -1,12 +1,12 @@
-# Preuve full-stack : API produit + interface React + tests + CI
+# Exemple de projet full-stack à réaliser : API produit + interface React + tests + CI
 
-**Projet interne** — pas une mission client. Démonstration de capacité à livrer une fonctionnalité de bout en bout, testée et intégrable.
+**STATUT : PROJET DE DÉMONSTRATION NON VÉRIFIÉ, NON DIFFUSABLE AUX PROSPECTS.** Ce document est une conception proposée, pas une livraison effective ni une référence client. Le dépôt public décrit en bas de page n'a pas été trouvé lors du contrôle du 23/10/2026. Aucun test vert ni déploiement ne sont établis.
 
 ## Problème technique
 
 Une équipe SaaS a besoin d'une fonctionnalité « Gestion des abonnements » : CRUD abonnements, webhook Stripe, pagination, filtres, tests d'intégration, déploiement vérifiable.
 
-## Solution livrée (démo)
+## Architecture proposée (non démontrée)
 
 ```
 subscription-service/
@@ -52,7 +52,7 @@ subscription-service/
 | Migration DB réversible | `npm run db:migrate` + `npm run db:rollback` |
 | Types stricts | `npm run typecheck` → 0 erreurs TypeScript |
 
-## Preuve d'exécution
+## Commandes prévues, non exécutées ni validées
 
 ```bash
 # Clone + démarrage
@@ -61,11 +61,11 @@ cd subscription-demo
 docker compose up -d
 npm install
 npm run db:migrate
-npm run test:all        # ✅ vert
+npm run test:all        # non vérifié
 npm run dev             # API sur :3000, UI sur :5173
 ```
 
-## Ce que cela démontre
+## Compétences que la démo pourrait illustrer une fois réalisée et vérifiée
 
 - Architecture propre : séparation routes / services / DB / UI
 - Tests réels : unitaires (logique), intégration (API + DB), e2E (user flow)

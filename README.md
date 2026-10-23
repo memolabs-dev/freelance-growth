@@ -4,7 +4,7 @@ Le pilotage commercial des prestations **Memo Labs** : missions full-stack, int�
 
 ## Objectif
 
-Signer une première mission B2B payante compatible avec une prestation réalisée depuis **la Thaïlande**, puis construire une acquisition de clients régulière et mesurable. Cible initiale de chiffre d'affaires : **7 000 à 10 000 EUR HT/mois à régime de croisière**, non garantie et distincte du revenu net.
+Signer une première mission B2B payante compatible avec une prestation réalisée à distance depuis **la France**, puis construire une acquisition de clients régulière et mesurable. Cible initiale de chiffre d'affaires : **7 000 à 10 000 EUR HT/mois à régime de croisière**, non garantie et distincte du revenu net.
 
 **Positionnement :** j'aide les équipes SaaS et les agences à développer, intégrer et fiabiliser leurs produits TypeScript, React et Node.js, y compris leurs fonctionnalités IA et leurs automatisations.
 
@@ -22,7 +22,7 @@ Signer une première mission B2B payante compatible avec une prestation réalis�
 
 ## Règles
 
-1. Un contrat dit « remote Europe » **n'autorise pas** automatiquement de travailler depuis la Thaïlande. La géographie, le fuseau horaire et l'accès aux données sont qualifiés et validés avant signature.
+1. Toute restriction de résidence, de pays de travail, de fuseau horaire ou d'accès aux données doit être explicitement vérifiée avant signature. Une éventuelle prestation hors de France requiert l'accord adapté.
 2. Études de cas véridiques seulement. Un projet interne ou un prototype n'est pas une référence client attestée.
 3. Prospection ciblée et messages adaptés, approuvés humainement avant tout envoi. Respecter les refus et le cadre CNIL.
 4. Priorité aux échanges qualifiés et au revenu facturé, pas au nombre de messages ou aux outils créés.
