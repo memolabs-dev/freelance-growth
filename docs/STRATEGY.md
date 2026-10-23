@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Obtenir une mission de developpement B2B payante, explicitement compatible avec le travail depuis la Thailande. Construire ensuite un portefeuille de clients et de partenaires apporteurs d'affaires. Cible de croisiere : 7 000 a 10 000 EUR HT mensuels de chiffre d'affaires, sans garantie de signature ni confusion avec le revenu net.
+Obtenir une mission de developpement B2B payante, explicitement compatible avec le travail a distance depuis la France. Construire ensuite un portefeuille de clients et de partenaires apporteurs d'affaires. Cible de croisiere : 7 000 a 10 000 EUR HT mensuels de chiffre d'affaires, sans garantie de signature ni confusion avec le revenu net.
 
 ## Proposition de valeur
 
@@ -57,11 +57,11 @@ Volumes et echeances sont des objectifs de travail, pas des promesses de resulta
 
 ## Indicateurs et pivots
 
-Primaires : CA HT signe, CA encaisse, jours factures, contrats autorisant la Thailande.
+Primaires : CA HT signe, CA encaisse, jours factures, contrats autorisant le lieu d'execution et le mode de travail convenus.
 
 Intermediaires : contacts qualifies, reponses positives, entretiens, propositions, taux de signature, cout des plateformes, heures de prospection par contrat et canal d'origine.
 
-Apres 20 contacts correctement qualifies sans reponse positive, revoir d'abord cible, proposition et preuve. Si les entretiens n'aboutissent pas, verifier budget et urgence. Si les contrats excluent la Thailande, durcir le filtre geographique. Ne pas construire un CRM, un crawler ou des agents supplementaires sans besoin observe.
+Apres 20 contacts correctement qualifies sans reponse positive, revoir d'abord cible, proposition et preuve. Si les entretiens n'aboutissent pas, verifier budget et urgence. Si le pays et les modalites de travail ne correspondent pas, durcir le filtre d'eligibilite. Ne pas construire un CRM, un crawler ou des agents supplementaires sans besoin observe.
 
 ## Sources de verite et gouvernance
 
@@ -69,4 +69,4 @@ Apres 20 contacts correctement qualifies sans reponse positive, revoir d'abord c
 - Le projet **gtm** de Memo Labs concerne les produits. Ce depot concerne l'acquisition de prestations de service.
 - Le **Vault** conserve la recherche complete et ses limites : `Freelance 2026 - Donnees de marche et sources`, `Freelance 2026 - Acquisition B2B`, `Freelance 2026 - Retours de terrain`, `Freelance Growth - Strategie commerciale 2026`.
 - Respecter CNIL et les conditions des plateformes; ne pas scraper LinkedIn sans autorisation.
-- Un contrat « remote Europe » n'autorise pas automatiquement le travail depuis la Thailande : accord explicite requis, notamment pour l'acces aux donnees.
+- Un contrat « remote » n'autorise pas automatiquement le travail depuis n'importe quel pays : verifier les lieux d'execution autorises, notamment pour l'acces aux donnees.
