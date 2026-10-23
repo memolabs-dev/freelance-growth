@@ -1,8 +1,33 @@
-# New Memo Labs project
+# Freelance Growth
 
-Created by Memo Bridge `project_create` from the template `memolabs-dev/project-template`.
-Replace this paragraph with what the project is for.
+Le pilotage commercial des prestations **Memo Labs** : missions full-stack, intégrations IA et accompagnement technique, sans devenir organisme de formation.
 
-- Tests: `npm test` (Node 22 or later, no dependency).
-- CI: one check, `check`. Mergify merges green pull requests that touch no gate path
-  (see `AGENTS.md`).
+## Objectif
+
+Signer une première mission B2B payante compatible avec une prestation réalisée depuis **la Thaïlande**, puis construire une acquisition de clients régulière et mesurable. Cible initiale de chiffre d'affaires : **7 000 à 10 000 EUR HT/mois à régime de croisière**, non garantie et distincte du revenu net.
+
+**Positionnement :** j'aide les équipes SaaS et les agences à développer, intégrer et fiabiliser leurs produits TypeScript, React et Node.js, y compris leurs fonctionnalités IA et leurs automatisations.
+
+## Par où commencer
+
+- [Stratégie et calendrier](docs/STRATEGY.md) : objectifs, canaux, séquences, indicateurs, critères de pivot.
+- [Catalogue des prestations](docs/OFFERS.md) : ce que les clients peuvent effectivement acheter.
+- [Clients idéaux et qualification](docs/ICP.md) : cibles, décideurs, signaux d'achat, filtres de compatibilité.
+
+## Frontières avec l'existant
+
+- **~/jobs** reste la source de vérité sur les annonces et candidatures existantes. Ne pas recopier ni réécrire les statuts sans preuve.
+- **proj:gtm** / `studio/business` traite la stratégie et la promotion des produits Memo Labs. Le présent projet ne porte que sur la vente de prestations de service.
+- **Vault** : `[[Freelance Growth - Strategie commerciale 2026]]`, `[[Freelance 2026 - Donnees de marche et sources]]`, `[[Freelance 2026 - Acquisition B2B]]`, `[[Accompagnement technique sans formation - Hypotheses 2026]]`. Les sources y sont conservées avec leurs limites.
+
+## Règles
+
+1. Un contrat dit « remote Europe » **n'autorise pas** automatiquement de travailler depuis la Thaïlande. La géographie, le fuseau horaire et l'accès aux données sont qualifiés et validés avant signature.
+2. Études de cas véridiques seulement. Un projet interne ou un prototype n'est pas une référence client attestée.
+3. Prospection ciblée et messages adaptés, approuvés humainement avant tout envoi. Respecter les refus et le cadre CNIL.
+4. Priorité aux échanges qualifiés et au revenu facturé, pas au nombre de messages ou aux outils créés.
+5. Pas de nouveau CRM SaaS ni de crawler généralisé tant que le besoin n'est pas prouvé.
+
+## Développement et gouvernance
+
+Projet de cadrage essentiellement documentaire. `npm test` exécute le test du template. Les changements passent par **Issue > worktree isolé > tests > PR**; jamais d'édition ni de push direct sur `main`.
