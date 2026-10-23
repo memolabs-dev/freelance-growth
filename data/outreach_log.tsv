@@ -1,5 +1,5 @@
 date	company	contact_role	channel	message_template_id	subject	body	personalization_thailand	proof_attached	response_received	response_date	next_action	next_due	notes	status
-2026-10-23	Oudini	Founder/Delivery	Email	OUDINI_001	Vos connecteurs Pennylane — gérer la complexité API sans bloquer l'équipe	"Bonjour,
+2026-10-23	Oudini	Founder/Delivery	Email	OUDINI_001	Vos connecteurs Pennylane — gérer la complexité API sans bloquer l'équipe	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 J'ai regardé de près votre connecteur Pennylane sur Make. Ce qui m'intéresse : vous gérez l'authentification OAuth, la pagination, les webhooks, et les erreurs de rate-limit — tout ça dans un connecteur maintenable.
 
@@ -12,8 +12,8 @@ Je ne vends pas de 'ressources'. Je livre un périmètre technique délimité, t
 Si vous avez un projet client où la partie API/back-office devient un goulot, on peut en parler sur 15 min. Pas de pitch, juste comprendre le besoin et voir si je peux aider.
 
 Bien à vous,
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	symbolist.	Founder/Delivery	Email	SYMBOLIST_001	Automatisations Make PME/ETI — le 'dernier kilomètre' technique	"Bonjour,
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	symbolist.	Founder/Delivery	Email	SYMBOLIST_001	Automatisations Make PME/ETI — le 'dernier kilomètre' technique	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Votre positionnement sur les workflows métier pour PME/ETI (RH, finance, ops) est clair. Ce que je vois souvent chez vos pairs : le workflow Make fonctionne, mais l'interface utilisateur (dashboard, validation, suivi d'erreurs) et le backend (API, base, auth) restent à construire côté client. Et l'équipe Make n'a pas toujours la bande passante pour livrer du React/Node propre, testé, déployable.
 
@@ -27,8 +27,8 @@ Si un projet client actuel a ce profil — workflow Make prêt, mais interface/b
 
 Disponible pour 15 min cette semaine si pertinent.
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	9x	Founder/Delivery	Email	9X_001	Intégrations SaaS/CRM sur mesure — tests d'intégration inclus	"Bonjour,
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	9x	Founder/Delivery	Email	9X_001	Intégrations SaaS/CRM sur mesure — tests d'intégration inclus	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Votre fiche Make mentionne 'automatisation SaaS/CRM et API'. Ce que ça implique concrètement : des APIs tiers instables, des schémas qui changent, de la pagination, des rate-limits, et des clients qui attendent que 'ça marche' sans voir la complexité.
 
@@ -40,8 +40,8 @@ Je travaille en B2B, depuis la Thaïlande (CET ±3h, accord écrit), sur des pé
 
 Si vous avez une intégration complexe en cours ou à venir où la robuste technique fait la différence, on peut en discuter.
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	Operative	Founder/Delivery	Email	OPERATIVE_001	Modules Node/React délimités — vous gardez la relation client	"Bonjour,
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Operative	Founder/Delivery	Email	OPERATIVE_001	Modules Node/React délimités — vous gardez la relation client	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Je vois que vous livrez des applications web + intégrations API personnalisées via Make. Parfois, un module technique (ex: espace client avec gestion d'abonnements, dashboard temps réel, import/export complexe) mérite un dev dédié le temps d'un sprint, sans que vous ayez à recruter.
 
@@ -55,8 +55,8 @@ B2B, facturation HT, exécution Thaïlande (CET ±3h, accord écrit). Pas de mar
 
 Si un projet actuel a un module technique bien délimité qui mérite un owner dédié, je suis disponible.
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	Together	Founder/Delivery	Email	TOGETHER_001	Next.js + AI product projects — shipping AI features to production	"Hello,
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Together	Founder/Delivery	Email	TOGETHER_001	Next.js + AI product projects — shipping AI features to production	"Hello,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 I came across Together's work with B2B tech companies — specifically your Next.js and AI product projects. The gap I see often: the AI demo works (RAG, agent, LLM chain), but shipping it to production with permissions, evaluation, cost observability, error handling, and tenant isolation is a different engineering challenge.
 
@@ -71,8 +71,8 @@ If you have an AI integration that needs to cross the production finish line, I 
 Open for a 15-min call this week if relevant.
 
 Best,
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	Lemon.io	Network Lead	Platform	LEMON_001	Senior React Full-stack — B2B contractor from Thailand (CET ±3h)	"Application via Lemon.io.
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Lemon.io	Network Lead	Platform	LEMON_001	Senior React Full-stack — B2B contractor from Thailand (CET ±3h)	"Application via Lemon.io.					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 5+ years React/Next.js/Node.js/TypeScript/PostgreSQL. I build product features end-to-end: UI, API, database, integrations, tests, CI/CD, production deployment.
 
@@ -87,8 +87,8 @@ Portfolio & code: github.com/memolabs-dev/memo-bridge, github.com/memolabs-dev/d
 
 Rate: 500-650€/day HT (Product Engineering), 600-750€/day HT (AI Integration). Open to fixed-price for scoped sprints.
 
-Ready for technical interview and test task."	THAILAND_CONFIRMED (announced)	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Complete profile + portfolio	2026-10-25	Profile to prepare	QUEUED
-2026-10-23	A.Team	Network Lead	Platform	ATEAM_001	Senior Independent Software Developer — product engineering + AI integration	"Application via A.Team network (Software Developer role, not AI Architect).
+Ready for technical interview and test task."	THAILAND_CONFIRMED (announced)	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Complete profile + portfolio	2026-10-25	Profile to prepare	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	A.Team	Network Lead	Platform	ATEAM_001	Senior Independent Software Developer — product engineering + AI integration	"Application via A.Team network (Software Developer role, not AI Architect).					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 5+ years TypeScript/React/Node.js/PostgreSQL. I ship product features: React/Next.js frontend, Node/TS APIs, PostgreSQL, third-party integrations (Stripe, CRM, LLM APIs), tests, CI/CD, production deployment.
 
@@ -101,8 +101,8 @@ B2B contractor only. Thailand execution (CET ±3h overlap) with written client a
 
 Rate: 500-650€/day HT (Product Engineering), 600-750€/day HT (AI Integration), fixed-price for scoped sprints.
 
-Available for technical interview, code review, and paid trial sprint."	VERIFY (worldwide)	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Complete technical dossier	2026-10-25	Dossier to prepare	QUEUED
-2026-10-23	Askable	Engineering Lead	Platform	ASKABLE_001	Software Engineer AI Coding Tasks — TypeScript, testing, agent evaluation	"Application for Askable AI Coding Tasks.
+Available for technical interview, code review, and paid trial sprint."	VERIFY (worldwide)	OFFER_ONE_PAGER.md + CASE_STUDY_FULLSTACK.md	false		Complete technical dossier	2026-10-25	Dossier to prepare	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Askable	Engineering Lead	Platform	ASKABLE_001	Software Engineer AI Coding Tasks — TypeScript, testing, agent evaluation	"Application for Askable AI Coding Tasks.					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Background: TypeScript, React, Node.js, PostgreSQL. Built agent evaluation tooling adjacent to World Kernel (internal research). Experience: LLM API integration, RAG pipelines, structured output validation, automated evaluation datasets, cost observability.
 
@@ -110,8 +110,8 @@ Critical: own code only — no client proprietary code, no NDAs violated. Contra
 
 Portfolio: github.com/memolabs-dev/memo-bridge (agent orchestration), github.com/memolabs-dev/rag-doc-search (RAG + eval + observability — public repo coming).
 
-Rate: per task (your $1000/task model works if scope is clear). Available for trial task."	VERIFY	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Review screened_out reason	2026-10-28	Check ~/jobs rejection	QUEUED
-2026-10-23	Blazity	Founder/Delivery	Email	BLAZITY_001	Enterprise AI agents on Next.js — production-grade delivery partner	"Hello,
+Rate: per task (your $1000/task model works if scope is clear). Available for trial task."	VERIFY	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Review screened_out reason	2026-10-28	Check ~/jobs rejection	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Blazity	Founder/Delivery	Email	BLAZITY_001	Enterprise AI agents on Next.js — production-grade delivery partner	"Hello,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Blazity's positioning on 'enterprise AI agents & workflows' with Next.js caught my attention — especially the THAI UI concept (putting n8n agents behind a clean interface with audit trail). That's exactly the production gap: the agent works, but the governance, permissions, evaluation, and user-facing interface need engineering.
 
@@ -125,8 +125,8 @@ If you have an enterprise engagement where the AI agent needs production hardeni
 
 15-min call this week if relevant?
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	Azurally	Founder/Delivery	Email	AZURALLY_001	Next.js + IA Martech — intégrations prêtes pour la prod	"Bonjour,
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Azurally	Founder/Delivery	Email	AZURALLY_001	Next.js + IA Martech — intégrations prêtes pour la prod	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Votre expertise Next.js/Nuxt + IA chez Azurally (martech, analytics, personalization) parle directement à ce que je livre : des intégrations IA qui tiennent en production.
 
@@ -142,8 +142,8 @@ Si un projet client martech a une brique IA à fiabiliser pour la prod, je peux 
 
 Disponible 15 min cette semaine.
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	Monogram	Founder/Delivery	Email	MONOGRAM_001	Applied AI Studio — production AI systems on Next.js	"Hello,
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	Monogram	Founder/Delivery	Email	MONOGRAM_001	Applied AI Studio — production AI systems on Next.js	"Hello,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Monogram's 'Applied AI Studio' positioning — designing and deploying production AI systems on Next.js, with AI Cloud and Agent Foundations certifications — is exactly the space where I add technical delivery capacity.
 
@@ -157,8 +157,8 @@ If an engagement needs extra engineering bandwidth to take an AI system from 'de
 
 Open for 15-min conversation.
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
-2026-10-23	TrueHorizon AI	Founder/Delivery	Email	TRUEHORIZON_001	n8n Enterprise (Avalara 100+ projects) — custom nodes, AI agents, governance	"Bonjour,
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
+2026-10-23	TrueHorizon AI	Founder/Delivery	Email	TRUEHORIZON_001	n8n Enterprise (Avalara 100+ projects) — custom nodes, AI agents, governance	"Bonjour,					2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
 
 Votre travail sur n8n self-hosted enterprise (Avalara : 100+ projets, 1M+ heures économisées, 12x ROI < 6 mois, THAI UI, queue mode, central error handling) est la référence du marché.
 
@@ -172,4 +172,4 @@ Modèle : sprint délimité ou renfort récurrent, B2B, exécution Thaïlande (C
 
 Si un engagement enterprise actuel a des besoins de dev n8n/AI sur mesure, on peut en discuter.
 
-Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED
+Guillaume"	VERIFY - ask in discovery	OFFER_ONE_PAGER.md + CASE_STUDY_AI.md	false		Relance si pas de réponse	2026-10-30	Draft ready, not sent	QUEUED			2026-10-26	2026-10-26	Ready to send	READY_TO_SEND
