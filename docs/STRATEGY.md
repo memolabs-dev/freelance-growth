@@ -1,72 +1,22 @@
-# Strategie commerciale 2026
+# Freelance Growth — stratégie opérationnelle en vigueur
 
-## Objectif
+**Version 23 octobre 2026.** La note historique du 19/10 et le plan de 12 semaines restent consultables ; les nouvelles décisions détaillées font foi : **[M2-STRATEGY-DECISIONS-2026-10-23.md](M2-STRATEGY-DECISIONS-2026-10-23.md)**.
 
-Obtenir une mission de developpement B2B payante, explicitement compatible avec le travail a distance depuis la France. Construire ensuite un portefeuille de clients et de partenaires apporteurs d'affaires. Cible de croisiere : 7 000 a 10 000 EUR HT mensuels de chiffre d'affaires, sans garantie de signature ni confusion avec le revenu net.
+**Objectif commercial :** première mission B2B payante, 100 % remote depuis **la France**. Rythme de croisière souhaité à terme : **7–10 k€ HT/mois de CA brut** (pas de promesse et pas de revenu net). Tout travail futur depuis la Thaïlande nécessite une autorisation écrite du client et une vérification contractuelle / des accès aux données.
 
-## Proposition de valeur
+**Offres :**
+- P0 Product Engineering React / Next.js / TypeScript / Node.js / PostgreSQL, mission 3–6 mois, **500–650 € HT/j comme hypothèse** ; tester 500–550 € au premier contrat si marché/scope cohérents.
+- P1 Intégrations IA et automatisation fiabilisées : Node/TS, API/n8n, droits, E2E, journalisation, tests et recette ; **600–750 € HT/j seulement si périmètre et preuves le justifient**.
+- P2 Diagnostic payé d'une app ou d'un workflow bloqué puis premier correctif borné ; uniquement si client avec budget, jamais du conseil gratuit sans plafond. « AI App Rescue » reste une hypothèse, pas une entreprise ou un SaaS à développer.
 
-**Francais :** J'aide les equipes SaaS et les agences a developper et fiabiliser leurs produits TypeScript, React et Node.js, ainsi que leurs integrations IA, de l'API a l'interface et jusqu'a la mise en production.
+**Allocation pilote 26/10–08/11** : **50 %** missions publiées budgétées et vérifiées ; **25 %** entreprises/agences avec signal d'achat daté ; **15 %** intermédiaires/matching dont Altor **déjà inscrit mais non confirmé** ; **10 %** expérience diagnostic payé (3 appels maximum). Pas de prospection de masse, pas d'abonnement payant par défaut.
 
-**English:** I help SaaS teams and agencies ship reliable TypeScript, React and Node.js products and practical AI integrations, from APIs to production.
+**Exclusions utilisateur définitives dans ce pipeline** : Medsharing déjà traité, aucune nouvelle relance ; Symbyoz et Adriver Group exclus. Ne pas représenter Nextcloud, KatchMe/Techunt/Beyond Skills/Station F, Oudini ou symbolist. comme prospects inédits ; Askable screened_out. Lire l'historique Gmail et `~/jobs/_db/jobs.db` **en lecture seule** avant toute démarche.
 
-Ne pas se presenter comme expert de tous les domaines. Medsharing temoigne d'une pratique du logiciel historique en secteur regule. Memo Bridge, CDKF et les autres projets internes sont des preuves techniques, pas automatiquement des references commerciales externes.
+**Règle anti-fausse preuve :** pas de démos RAG ou abonnement inventées, ni de ROI client attribué aux projets internes. Les exemples publics sont [Memo Bridge](https://github.com/memolabs-dev/memo-bridge) et [n8n-node-Opn](https://github.com/guillaume-flambard/n8n-nodes-opn), à décrire avec leurs limites et le lien vérifié.
 
-## Priorites des offres
+**Succès =** acheteur identifié, besoin réel, budget/échéance, appels tenus, devis accepté, contrat signé puis facturé/encaissé. Brouillons, discussions entre agents, inscription plateforme et tests locaux ≠ progression commerciale.
 
-| Niveau | Offre | Type de mission | Tarif cible a tester |
-|---|---|---|---|
-| P0 | Product Engineering | Renfort freelance de 3 a 6 mois, React/Next.js/Node/Postgres, livraison et tests | 500-650 EUR HT/j |
-| P1 | AI Integration and Automation | API LLM, RAG, integration metier, n8n, validation et observabilite | 600-750 EUR HT/j ou forfait borne |
-| P2 | Technical Partner | Diagnostic payant et co-implementation sur le systeme du client | Prix au forfait selon le perimetre |
+**Aucune candidature ni message externe** sans approbation par le propriétaire du texte et du destinataire exacts. Préparation via issues/PR et vérifications ; aucun déplacement de données privées en Git.
 
-Les montants sont des hypotheses commerciales, non des contrats signes. L'offre P2 n'est pas une formation ni un cours en ligne.
-
-## Acquisition
-
-Allocation experimentale de temps durant les deux premieres semaines :
-
-- 40 % : missions freelance publiees et qualifiees via le repertoire ~/jobs.
-- 35 % : anciens contacts, recruteurs, agences et studios techniques.
-- 20 % : prospection directe des CTO avec un signal de besoin source et date.
-- 5 % : preuves commerciales et portfolio.
-
-Les plateformes restent utiles; ne pas dependre d'une seule. L'acquisition doit etre humaine et personnalisee. Aucune automatisation d'envoi n'est autorisee par ce plan.
-
-## Processus commercial
-
-1. **Detecter** : besoin public verifiable, date, entreprise, interlocuteur.
-2. **Qualifier** : enjeux, echeance, budget, decideur, contrat B2B, pays autorises et donnees.
-3. **Contacter** : message de quelques lignes ancre dans une observation factuelle, avec question simple.
-4. **Relancer** : une relance utile apres 5 a 7 jours ouvres; derniere relance raisonnable seulement si pertinente; respecter l'opposition.
-5. **Decouvrir** : entretien de 20 a 30 minutes sur le besoin, l'impact et les criteres de recette.
-6. **Proposer** : scope, exclusions, livrables, tests, calendrier, prix, confidentialite, facturation, lieu d'execution.
-7. **Livrer** : resultat verifiable puis extension de mission seulement si elle apporte une valeur.
-
-## Feuille de route
-
-| Dates | Cible d'activite | Preuve attendue |
-|---|---|---|
-| 19-21 octobre | Positionnement, offres et deux exemples techniques; verification des candidatures existantes | Kit commercial simple |
-| 20-26 octobre | 8 a 12 annonces B2B, 10 contacts connus, 8 agences cibles | Opportunites qualifiees et reponses |
-| 27 octobre au 2 novembre | 7 autres agences et 10 CTO SaaS avec besoins documentes | Premiers entretiens de decouverte |
-| 3-9 novembre | Propositions pour besoins reels et budgets connus | 1 a 3 devis si pertinents |
-| 10-15 novembre | Chercher premier contrat ou sprint payant, et analyser les echecs | Contrat ou hypotheses corrigees |
-
-Volumes et echeances sont des objectifs de travail, pas des promesses de resultat.
-
-## Indicateurs et pivots
-
-Primaires : CA HT signe, CA encaisse, jours factures, contrats autorisant le lieu d'execution et le mode de travail convenus.
-
-Intermediaires : contacts qualifies, reponses positives, entretiens, propositions, taux de signature, cout des plateformes, heures de prospection par contrat et canal d'origine.
-
-Apres 20 contacts correctement qualifies sans reponse positive, revoir d'abord cible, proposition et preuve. Si les entretiens n'aboutissent pas, verifier budget et urgence. Si le pays et les modalites de travail ne correspondent pas, durcir le filtre d'eligibilite. Ne pas construire un CRM, un crawler ou des agents supplementaires sans besoin observe.
-
-## Sources de verite et gouvernance
-
-- **~/jobs/_db/jobs.db** conserve les annonces et candidatures; ne pas modifier le statut d'une candidature sans preuve d'envoi et sans controle des doublons.
-- Le projet **gtm** de Memo Labs concerne les produits. Ce depot concerne l'acquisition de prestations de service.
-- Le **Vault** conserve la recherche complete et ses limites : `Freelance 2026 - Donnees de marche et sources`, `Freelance 2026 - Acquisition B2B`, `Freelance 2026 - Retours de terrain`, `Freelance Growth - Strategie commerciale 2026`.
-- Respecter CNIL et les conditions des plateformes; ne pas scraper LinkedIn sans autorisation.
-- Un contrat « remote » n'autorise pas automatiquement le travail depuis n'importe quel pays : verifier les lieux d'execution autorises, notamment pour l'acces aux donnees.
+**Issues de pilotage** : #38 stratégie ; #40 missions ; #41 agences ; #43 AI App Rescue ; #45 approbation/mesure ; #46 orchestrateur.
