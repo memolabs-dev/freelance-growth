@@ -1,0 +1,31 @@
+{
+  "kind": "agency_intro",
+  "subject": "Exemple fictif : renfort API",
+  "buyer": {
+    "company": "Studio Exemple",
+    "role": "Delivery Manager",
+    "recipient": "delivery@example.org",
+    "public_source_url": "https://example.org/services",
+    "public_source_date": "2026-10-19",
+    "observed_fact": "vos intégrations API métier"
+  },
+  "identity": {
+    "name": "Test Developer",
+    "positioning": "Ingénieur full-stack et intégrations",
+    "linkedin": "https://www.linkedin.com/in/example-developer",
+    "github": "https://github.com/example-developer"
+  },
+  "proof": {
+    "public_url": "https://github.com/example-org/example-repo",
+    "why_relevant": "les tests automatisés et les autorisations côté serveur"
+  },
+  "value_statement": "livrer un module TypeScript relié aux API et aux données",
+  "cta": "Est-ce un besoin qui existe sur vos projets actuels ?",
+  "body": "Bonjour,\nJ'ai découvert vos intégrations API métier.\nJe suis Test Developer, Ingénieur full-stack et intégrations.\nJe peux livrer un module TypeScript relié aux API et aux données, avec un résultat testé et documenté.\nUne réalisation que je peux montrer concerne les tests automatisés et les autorisations côté serveur : https://github.com/example-org/example-repo\nEst-ce un besoin qui existe sur vos projets actuels ?\nTest Developer\nhttps://www.linkedin.com/in/example-developer\nhttps://github.com/example-developer\nSi vous préférez ne pas être recontacté, dites-le-moi simplement.",
+  "checks": {
+    "recipient_verified": true,
+    "fact_checked": true,
+    "gmail_duplicate_checked_on": "2026-10-19",
+    "no_outreach_opt_out": true
+  }
+}
